@@ -43,5 +43,5 @@ Currently building an automotive themed platform.
 
 ## 📫 Contact
 
-- 🐦 E-mail: d.kasikhin@gmail.com
+- 🐦 E-mail: d.kasikhin[at]gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/dmitry-kasikhin/
