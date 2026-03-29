@@ -29,9 +29,6 @@ Currently building an automotive themed platform.
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
 ![Inertia](https://img.shields.io/badge/-Inertia-black?style=flat-square)
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
 
 ## 🧩 Current Focus
 
