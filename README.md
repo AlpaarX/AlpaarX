@@ -2,12 +2,10 @@
 
 ### Hi, I'm Dmitry
 I design and build scalable backend systems, marketplaces, and data-driven platforms.  
-Currently building an automotive themed platform.
 
 ### 🧠 About Me
 
-- 💻 Backend-first engineer (PHP, Laravel, PostgreSQL)
-- 🏗 Building: C2C/B2C automotive marketplace platform
+- 💻 Backend-first engineer
 - 🇯🇵 Based in Japan
 - 📈 Focused on becoming a top-tier backend engineer
 - 🔥 Interested in system design, scalability & architecture
