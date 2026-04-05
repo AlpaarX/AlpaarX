@@ -12,24 +12,6 @@ Currently building an automotive themed platform.
 - 📈 Focused on becoming a top-tier backend engineer
 - 🔥 Interested in system design, scalability & architecture
 
-## 🛠 Tech Stack
-
-### Backend
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
-
-### DevOps
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
-
-### Frontend
-![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
-![Inertia](https://img.shields.io/badge/-Inertia-black?style=flat-square)
-
-
 ## 🧩 Current Focus
 
 - Scaling backend architectures
